@@ -1,0 +1,12 @@
+{
+  "name": "TREIZE+ — Divertissement",
+  "short_name": "TREIZE+",
+  "description": "Prototype de plateforme de divertissement TREIZE+",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080c12",
+  "theme_color": "#090d13",
+  "icons": []
+}
